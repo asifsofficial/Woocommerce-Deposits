@@ -1,5 +1,8 @@
 # Woocommerce Deposits
-
+## Location
+```
+/wp-content/plugins/woocommerce-deposits/includes/admin/class-envato-items-update-client.php
+```
 
 ```
 <?php
